@@ -15,7 +15,7 @@ const ProjectsSection = () => {
           image: "/images/projects/1.png",
           tag: ["All", "Web"],
           gitUrl: "/",
-          previewUrl: "https://portfolio-nextjs-mauve-one.vercel.app/",
+          previewUrl: "https://drmahmed-portfolio.vercel.app/",
         },
         {
           id: 2,
